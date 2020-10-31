@@ -1,7 +1,5 @@
 # Academic and individual projects
 
-Author: Rui Qin
-
 ## [Project 1: Kaggle Titanic Challenge](https://github.com/r3qin/Titanic-Challenge/blob/main/Titanic.ipynb)
 * Analyzed data by creating statistical graphs to show relationship between variables and the target
 * Implemented machine learning algorithms: Logistic Regression, Support Vector Machines, K Nearest Neighbors, Random Forests, and Multilayer Perceptron
