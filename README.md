@@ -4,6 +4,7 @@
 * Analyzed data by creating statistical graphs to show relationship between variables and the target
 * Implemented machine learning algorithms: Logistic Regression, Support Vector Machines, K Nearest Neighbors, Random Forests, and Multilayer Perceptron
 * Fine-tuned hypoparameters to achieve a higher accuracy
+* Achieved 78.7% test accuracy and ranked in top 13%
 * Python libraries utilized: NumPy, pandas, seaborn, and sikit-learn
 
 ## [Project 2: A brief Introduction to Seaborn](https://r3qin.github.io/Community_Contribution/A-brief-introduction-to-seaborn.html)
