@@ -7,7 +7,7 @@
 * Achieved 78.7% test accuracy and ranked in top 13%
 * Python libraries utilized: NumPy, pandas, seaborn, and sikit-learn
 
-## [Project 4: Kaggle Digit Recognizer Challenge](https://github.com/r3qin/Digit-Recognizer/blob/main/Digit%20Recognizer.ipynb)
+## [Project 2: Kaggle Digit Recognizer Challenge](https://github.com/r3qin/Digit-Recognizer/blob/main/Digit%20Recognizer.ipynb)
 * Used convolutional neural network to identify digits in pictures
 * Fine-tuned hypoparameters to achieve a higher accuracy
 * Achieved 98.989% test accuracy
